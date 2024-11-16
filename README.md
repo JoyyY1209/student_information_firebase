@@ -1,7 +1,5 @@
 # student_information_firebase
 
-# Student Information using Firebase
-
 ## Interface
 [Interface Video](https://drive.google.com/file/d/1M0feAY4D4gqUF6hTerfwpkG1tu-onzdO/view?usp=drive_link)
 
