@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821361788600",
+    "project_id": "student-information-1c2e2",
+    "storage_bucket": "student-information-1c2e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821361788600:android:d47b4f80cc63c452cad64d",
+        "android_client_info": {
+          "package_name": "com.amar_student.student_information_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVEz5ZuXshCewaOQqhaMR1gSuMoHEhI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
